@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Getting-Started on Moetes</title><link>/tags/getting-started/</link><description>Recent content in Getting-Started on Moetes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/getting-started/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with IoT Development</title><link>/blog/getting-started-iot-development/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>/blog/getting-started-iot-development/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Welcome to the world of IoT development! In this guide, we&amp;rsquo;ll walk you through everything you need to know to get started with building connected devices.&lt;/p>
+&lt;h2 id="what-youll-need">What You&amp;rsquo;ll Need&lt;/h2>
+&lt;p>Before diving in, make sure you have:&lt;/p>
+&lt;ul>
+&lt;li>A development kit (we recommend the nRF52840 Connect Kit)&lt;/li>
+&lt;li>A computer with USB port&lt;/li>
+&lt;li>Basic programming knowledge&lt;/li>
+&lt;li>Curiosity and enthusiasm!&lt;/li>
+&lt;/ul>
+&lt;h2 id="step-1-set-up-your-development-environment">Step 1: Set Up Your Development Environment&lt;/h2>
+&lt;p>First, you&amp;rsquo;ll need to install the necessary software tools:&lt;/p></description></item></channel></rss>

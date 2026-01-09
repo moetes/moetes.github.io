@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Moetes</title><link>/</link><description>Recent content on Moetes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>CLRC663 NFC Module V1</title><link>/products/m03-clrc663-nfc-module/</link><pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate><guid>/products/m03-clrc663-nfc-module/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h2 id="whats-included">What&amp;rsquo;s Included&lt;/h2>
+&lt;h2 id="use-cases">Use Cases&lt;/h2>
+&lt;h2 id="getting-started">Getting Started&lt;/h2></description></item><item><title>M.2 PN532 NFC Module</title><link>/products/m02-pn532-nfc-module/</link><pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate><guid>/products/m02-pn532-nfc-module/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The M.2 PN532 NFC Module is a compact and versatile NFC/RFID reader/writer module in the popular M.2 form factor. Built around the NXP PN532 chipset, it supports multiple contactless communication protocols and is perfect for payment systems, access control, and IoT applications.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>PN532 Chipset&lt;/strong>: Industry-standard NFC controller&lt;/li>
+&lt;li>&lt;strong>Multiple Protocols&lt;/strong>: ISO14443A/B, FeliCa, MIFARE&lt;/li>
+&lt;li>&lt;strong>M.2 Interface&lt;/strong>: Standard M.2 Key-E connector&lt;/li>
+&lt;li>&lt;strong>Read/Write Support&lt;/strong>: Full NFC tag read and write capabilities&lt;/li>
+&lt;li>&lt;strong>Flexible Integration&lt;/strong>: Works with various M.2 host boards&lt;/li>
+&lt;li>&lt;strong>Open Source&lt;/strong>: Complete documentation and examples&lt;/li>
+&lt;/ul>
+&lt;h2 id="specifications">Specifications&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Chipset&lt;/strong>: NXP PN532&lt;/li>
+&lt;li>&lt;strong>Interface&lt;/strong>: M.2 Key-E (2230)&lt;/li>
+&lt;li>&lt;strong>Protocols&lt;/strong>: ISO/IEC 14443 Type A/B, FeliCa, MIFARE Classic/Ultralight&lt;/li>
+&lt;li>&lt;strong>Operating Frequency&lt;/strong>: 13.56 MHz&lt;/li>
+&lt;li>&lt;strong>Communication&lt;/strong>: I2C, SPI, UART&lt;/li>
+&lt;li>&lt;strong>Operating Voltage&lt;/strong>: 3.3V&lt;/li>
+&lt;li>&lt;strong>Operating Range&lt;/strong>: Up to 5 cm&lt;/li>
+&lt;li>&lt;strong>Dimensions&lt;/strong>: M.2 2230 (22 x 30 mm)&lt;/li>
+&lt;/ul>
+&lt;h2 id="whats-included">What&amp;rsquo;s Included&lt;/h2>
+&lt;ul>
+&lt;li>1x M.2 PN532 NFC Module&lt;/li>
+&lt;li>Quick Start Guide&lt;/li>
+&lt;li>Online documentation access&lt;/li>
+&lt;/ul>
+&lt;h2 id="use-cases">Use Cases&lt;/h2>
+&lt;ul>
+&lt;li>Contactless payment terminals&lt;/li>
+&lt;li>Access control systems&lt;/li>
+&lt;li>Smart card readers&lt;/li>
+&lt;li>NFC tag programming&lt;/li>
+&lt;li>Product authentication&lt;/li>
+&lt;li>Data exchange applications&lt;/li>
+&lt;/ul>
+&lt;h2 id="getting-started">Getting Started&lt;/h2>
+&lt;ol>
+&lt;li>Insert the module into an M.2 Key-E slot on your host board&lt;/li>
+&lt;li>Install the required drivers and libraries&lt;/li>
+&lt;li>Configure the communication interface (I2C/SPI/UART)&lt;/li>
+&lt;li>Test with NFC tags or cards&lt;/li>
+&lt;li>Integrate into your application&lt;/li>
+&lt;/ol>
+&lt;h2 id="resources">Resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://example.com/docs/m02-pn532">Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/example/pn532-examples">Code Examples&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://example.com/datasheets/pn532">Datasheet&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Walkie-Talkie Module</title><link>/products/m01-walkie-talkie-module/</link><pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate><guid>/products/m01-walkie-talkie-module/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Pitaya Go is a compact, feature-rich IoT development board powered by the Nordic nRF52840 SoC. It&amp;rsquo;s designed for battery-powered IoT applications with built-in battery management and charging capabilities.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Powerful SoC&lt;/strong>: Nordic nRF52840 with Bluetooth 5&lt;/li>
+&lt;li>&lt;strong>Battery Ready&lt;/strong>: Built-in LiPo battery charger and management&lt;/li>
+&lt;li>&lt;strong>Rich Peripherals&lt;/strong>: Multiple sensors and interfaces&lt;/li>
+&lt;li>&lt;strong>Low Power&lt;/strong>: Optimized for battery-powered applications&lt;/li>
+&lt;li>&lt;strong>USB-C&lt;/strong>: Modern USB-C connector for programming and charging&lt;/li>
+&lt;li>&lt;strong>Compact Size&lt;/strong>: Perfect for portable projects&lt;/li>
+&lt;/ul>
+&lt;h2 id="specifications">Specifications&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>SoC&lt;/strong>: Nordic nRF52840&lt;/li>
+&lt;li>&lt;strong>CPU&lt;/strong>: ARM Cortex-M4F @ 64 MHz&lt;/li>
+&lt;li>&lt;strong>Flash&lt;/strong>: 1 MB&lt;/li>
+&lt;li>&lt;strong>RAM&lt;/strong>: 256 KB&lt;/li>
+&lt;li>&lt;strong>Wireless&lt;/strong>: Bluetooth 5.0, Thread, Zigbee&lt;/li>
+&lt;li>&lt;strong>Battery&lt;/strong>: LiPo charger (up to 500mA)&lt;/li>
+&lt;li>&lt;strong>USB&lt;/strong>: USB-C (USB 2.0)&lt;/li>
+&lt;li>&lt;strong>Sensors&lt;/strong>: Temperature, accelerometer, ambient light&lt;/li>
+&lt;li>&lt;strong>Dimensions&lt;/strong>: 35 x 45 mm&lt;/li>
+&lt;/ul>
+&lt;h2 id="whats-included">What&amp;rsquo;s Included&lt;/h2>
+&lt;ul>
+&lt;li>1x Pitaya Go Board&lt;/li>
+&lt;li>1x USB-C Cable&lt;/li>
+&lt;li>Documentation &amp;amp; Examples&lt;/li>
+&lt;li>Plastic enclosure (optional)&lt;/li>
+&lt;/ul>
+&lt;h2 id="perfect-for">Perfect For&lt;/h2>
+&lt;ul>
+&lt;li>Wearable devices&lt;/li>
+&lt;li>Environmental monitoring&lt;/li>
+&lt;li>Smart home sensors&lt;/li>
+&lt;li>Asset tracking&lt;/li>
+&lt;li>Portable IoT projects&lt;/li>
+&lt;/ul>
+&lt;h2 id="getting-started">Getting Started&lt;/h2>
+&lt;ol>
+&lt;li>Connect Pitaya Go to your computer via USB-C&lt;/li>
+&lt;li>Install the development environment&lt;/li>
+&lt;li>Try the pre-loaded examples&lt;/li>
+&lt;li>Add a LiPo battery for portable operation&lt;/li>
+&lt;li>Build your IoT application&lt;/li>
+&lt;/ol>
+&lt;p>For detailed guides and examples, visit our documentation portal.&lt;/p></description></item><item><title>Getting Started with IoT Development</title><link>/blog/getting-started-iot-development/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>/blog/getting-started-iot-development/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Welcome to the world of IoT development! In this guide, we&amp;rsquo;ll walk you through everything you need to know to get started with building connected devices.&lt;/p>
+&lt;h2 id="what-youll-need">What You&amp;rsquo;ll Need&lt;/h2>
+&lt;p>Before diving in, make sure you have:&lt;/p>
+&lt;ul>
+&lt;li>A development kit (we recommend the nRF52840 Connect Kit)&lt;/li>
+&lt;li>A computer with USB port&lt;/li>
+&lt;li>Basic programming knowledge&lt;/li>
+&lt;li>Curiosity and enthusiasm!&lt;/li>
+&lt;/ul>
+&lt;h2 id="step-1-set-up-your-development-environment">Step 1: Set Up Your Development Environment&lt;/h2>
+&lt;p>First, you&amp;rsquo;ll need to install the necessary software tools:&lt;/p></description></item><item><title>Voice Recognition Module V4</title><link>/products/m04-voice-recognition/</link><pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate><guid>/products/m04-voice-recognition/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;h2 id="whats-included">What&amp;rsquo;s Included&lt;/h2>
+&lt;h2 id="use-cases">Use Cases&lt;/h2>
+&lt;h2 id="getting-started">Getting Started&lt;/h2></description></item><item><title>About Us</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h2 id="your-connected-hardware-partner">Your Connected Hardware Partner&lt;/h2>
+&lt;p>We make it easy for developers to build connected devices and get to production quickly with innovative solutions.&lt;/p>
+&lt;h3 id="our-mission">Our Mission&lt;/h3>
+&lt;p>To empower developers and makers worldwide with high-quality, easy-to-use development tools and hardware platforms.&lt;/p>
+&lt;h3 id="what-we-do">What We Do&lt;/h3>
+&lt;p>We design and manufacture development kits, modules, and accessories for building IoT and embedded systems. Our products are used by:&lt;/p>
+&lt;ul>
+&lt;li>Hobbyists and makers&lt;/li>
+&lt;li>Professional developers&lt;/li>
+&lt;li>Educational institutions&lt;/li>
+&lt;li>Research organizations&lt;/li>
+&lt;li>Commercial product teams&lt;/li>
+&lt;/ul>
+&lt;h3 id="our-values">Our Values&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Quality&lt;/strong>: We build products that we&amp;rsquo;d want to use ourselves&lt;/li>
+&lt;li>&lt;strong>Innovation&lt;/strong>: We stay at the forefront of technology&lt;/li>
+&lt;li>&lt;strong>Community&lt;/strong>: We support and grow with our users&lt;/li>
+&lt;li>&lt;strong>Open Source&lt;/strong>: We believe in sharing knowledge and code&lt;/li>
+&lt;li>&lt;strong>Support&lt;/strong>: We&amp;rsquo;re here to help you succeed&lt;/li>
+&lt;/ul>
+&lt;h3 id="get-in-touch">Get in Touch&lt;/h3>
+&lt;p>Have questions or want to learn more? &lt;a href="/contact/">Contact us&lt;/a> - we&amp;rsquo;d love to hear from you!&lt;/p></description></item><item><title>Contact Us</title><link>/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contact/</guid><description>&lt;p>Makerdiary is committed to helping you find the resources you need. If you need technical support, you can visit our wiki or our customer support forum where we have technical support to assist you quickly. You can also check out &lt;a href="">FAQs&lt;/a> for other questions.&lt;/p>
+&lt;p>Shenzhen Zaowubang Technology Co.,Ltd.
+Address: 2F, Building B2, Huafeng Guantian Technology Park, Shenzhen, 518108 Guangdong, China&lt;/p></description></item></channel></rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Iot on Moetes</title><link>/tags/iot/</link><description>Recent content in Iot on Moetes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/iot/index.xml" rel="self" type="application/rss+xml"/><item><title>Walkie-Talkie Module</title><link>/products/m01-walkie-talkie-module/</link><pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate><guid>/products/m01-walkie-talkie-module/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Pitaya Go is a compact, feature-rich IoT development board powered by the Nordic nRF52840 SoC. It&amp;rsquo;s designed for battery-powered IoT applications with built-in battery management and charging capabilities.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Powerful SoC&lt;/strong>: Nordic nRF52840 with Bluetooth 5&lt;/li>
+&lt;li>&lt;strong>Battery Ready&lt;/strong>: Built-in LiPo battery charger and management&lt;/li>
+&lt;li>&lt;strong>Rich Peripherals&lt;/strong>: Multiple sensors and interfaces&lt;/li>
+&lt;li>&lt;strong>Low Power&lt;/strong>: Optimized for battery-powered applications&lt;/li>
+&lt;li>&lt;strong>USB-C&lt;/strong>: Modern USB-C connector for programming and charging&lt;/li>
+&lt;li>&lt;strong>Compact Size&lt;/strong>: Perfect for portable projects&lt;/li>
+&lt;/ul>
+&lt;h2 id="specifications">Specifications&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>SoC&lt;/strong>: Nordic nRF52840&lt;/li>
+&lt;li>&lt;strong>CPU&lt;/strong>: ARM Cortex-M4F @ 64 MHz&lt;/li>
+&lt;li>&lt;strong>Flash&lt;/strong>: 1 MB&lt;/li>
+&lt;li>&lt;strong>RAM&lt;/strong>: 256 KB&lt;/li>
+&lt;li>&lt;strong>Wireless&lt;/strong>: Bluetooth 5.0, Thread, Zigbee&lt;/li>
+&lt;li>&lt;strong>Battery&lt;/strong>: LiPo charger (up to 500mA)&lt;/li>
+&lt;li>&lt;strong>USB&lt;/strong>: USB-C (USB 2.0)&lt;/li>
+&lt;li>&lt;strong>Sensors&lt;/strong>: Temperature, accelerometer, ambient light&lt;/li>
+&lt;li>&lt;strong>Dimensions&lt;/strong>: 35 x 45 mm&lt;/li>
+&lt;/ul>
+&lt;h2 id="whats-included">What&amp;rsquo;s Included&lt;/h2>
+&lt;ul>
+&lt;li>1x Pitaya Go Board&lt;/li>
+&lt;li>1x USB-C Cable&lt;/li>
+&lt;li>Documentation &amp;amp; Examples&lt;/li>
+&lt;li>Plastic enclosure (optional)&lt;/li>
+&lt;/ul>
+&lt;h2 id="perfect-for">Perfect For&lt;/h2>
+&lt;ul>
+&lt;li>Wearable devices&lt;/li>
+&lt;li>Environmental monitoring&lt;/li>
+&lt;li>Smart home sensors&lt;/li>
+&lt;li>Asset tracking&lt;/li>
+&lt;li>Portable IoT projects&lt;/li>
+&lt;/ul>
+&lt;h2 id="getting-started">Getting Started&lt;/h2>
+&lt;ol>
+&lt;li>Connect Pitaya Go to your computer via USB-C&lt;/li>
+&lt;li>Install the development environment&lt;/li>
+&lt;li>Try the pre-loaded examples&lt;/li>
+&lt;li>Add a LiPo battery for portable operation&lt;/li>
+&lt;li>Build your IoT application&lt;/li>
+&lt;/ol>
+&lt;p>For detailed guides and examples, visit our documentation portal.&lt;/p></description></item><item><title>Getting Started with IoT Development</title><link>/blog/getting-started-iot-development/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>/blog/getting-started-iot-development/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Welcome to the world of IoT development! In this guide, we&amp;rsquo;ll walk you through everything you need to know to get started with building connected devices.&lt;/p>
+&lt;h2 id="what-youll-need">What You&amp;rsquo;ll Need&lt;/h2>
+&lt;p>Before diving in, make sure you have:&lt;/p>
+&lt;ul>
+&lt;li>A development kit (we recommend the nRF52840 Connect Kit)&lt;/li>
+&lt;li>A computer with USB port&lt;/li>
+&lt;li>Basic programming knowledge&lt;/li>
+&lt;li>Curiosity and enthusiasm!&lt;/li>
+&lt;/ul>
+&lt;h2 id="step-1-set-up-your-development-environment">Step 1: Set Up Your Development Environment&lt;/h2>
+&lt;p>First, you&amp;rsquo;ll need to install the necessary software tools:&lt;/p></description></item></channel></rss>

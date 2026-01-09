@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rfid on Moetes</title><link>/tags/rfid/</link><description>Recent content in Rfid on Moetes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/rfid/index.xml" rel="self" type="application/rss+xml"/><item><title>M.2 PN532 NFC Module</title><link>/products/m02-pn532-nfc-module/</link><pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate><guid>/products/m02-pn532-nfc-module/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>The M.2 PN532 NFC Module is a compact and versatile NFC/RFID reader/writer module in the popular M.2 form factor. Built around the NXP PN532 chipset, it supports multiple contactless communication protocols and is perfect for payment systems, access control, and IoT applications.&lt;/p>
+&lt;h2 id="key-features">Key Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>PN532 Chipset&lt;/strong>: Industry-standard NFC controller&lt;/li>
+&lt;li>&lt;strong>Multiple Protocols&lt;/strong>: ISO14443A/B, FeliCa, MIFARE&lt;/li>
+&lt;li>&lt;strong>M.2 Interface&lt;/strong>: Standard M.2 Key-E connector&lt;/li>
+&lt;li>&lt;strong>Read/Write Support&lt;/strong>: Full NFC tag read and write capabilities&lt;/li>
+&lt;li>&lt;strong>Flexible Integration&lt;/strong>: Works with various M.2 host boards&lt;/li>
+&lt;li>&lt;strong>Open Source&lt;/strong>: Complete documentation and examples&lt;/li>
+&lt;/ul>
+&lt;h2 id="specifications">Specifications&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Chipset&lt;/strong>: NXP PN532&lt;/li>
+&lt;li>&lt;strong>Interface&lt;/strong>: M.2 Key-E (2230)&lt;/li>
+&lt;li>&lt;strong>Protocols&lt;/strong>: ISO/IEC 14443 Type A/B, FeliCa, MIFARE Classic/Ultralight&lt;/li>
+&lt;li>&lt;strong>Operating Frequency&lt;/strong>: 13.56 MHz&lt;/li>
+&lt;li>&lt;strong>Communication&lt;/strong>: I2C, SPI, UART&lt;/li>
+&lt;li>&lt;strong>Operating Voltage&lt;/strong>: 3.3V&lt;/li>
+&lt;li>&lt;strong>Operating Range&lt;/strong>: Up to 5 cm&lt;/li>
+&lt;li>&lt;strong>Dimensions&lt;/strong>: M.2 2230 (22 x 30 mm)&lt;/li>
+&lt;/ul>
+&lt;h2 id="whats-included">What&amp;rsquo;s Included&lt;/h2>
+&lt;ul>
+&lt;li>1x M.2 PN532 NFC Module&lt;/li>
+&lt;li>Quick Start Guide&lt;/li>
+&lt;li>Online documentation access&lt;/li>
+&lt;/ul>
+&lt;h2 id="use-cases">Use Cases&lt;/h2>
+&lt;ul>
+&lt;li>Contactless payment terminals&lt;/li>
+&lt;li>Access control systems&lt;/li>
+&lt;li>Smart card readers&lt;/li>
+&lt;li>NFC tag programming&lt;/li>
+&lt;li>Product authentication&lt;/li>
+&lt;li>Data exchange applications&lt;/li>
+&lt;/ul>
+&lt;h2 id="getting-started">Getting Started&lt;/h2>
+&lt;ol>
+&lt;li>Insert the module into an M.2 Key-E slot on your host board&lt;/li>
+&lt;li>Install the required drivers and libraries&lt;/li>
+&lt;li>Configure the communication interface (I2C/SPI/UART)&lt;/li>
+&lt;li>Test with NFC tags or cards&lt;/li>
+&lt;li>Integrate into your application&lt;/li>
+&lt;/ol>
+&lt;h2 id="resources">Resources&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://example.com/docs/m02-pn532">Documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/example/pn532-examples">Code Examples&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://example.com/datasheets/pn532">Datasheet&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
