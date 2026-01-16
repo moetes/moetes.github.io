@@ -45,7 +45,13 @@
 &lt;/ol>
 &lt;h2 id="resources">Resources&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://example.com/docs/m02-pn532">Documentation&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/example/pn532-examples">Code Examples&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://example.com/datasheets/pn532">Datasheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://example.com/docs/m02-pn532" target="_blank" rel="noopener noreferrer">Documentation&lt;/a>
+
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/example/pn532-examples" target="_blank" rel="noopener noreferrer">Code Examples&lt;/a>
+
+&lt;/li>
+&lt;li>&lt;a href="https://example.com/datasheets/pn532" target="_blank" rel="noopener noreferrer">Datasheet&lt;/a>
+
+&lt;/li>
 &lt;/ul></description></item></channel></rss>
