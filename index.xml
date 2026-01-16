@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Moetes</title><link>/</link><description>Recent content on Moetes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>CLRC663 NFC Module V1</title><link>/products/m03-clrc663-nfc-module/</link><pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate><guid>/products/m03-clrc663-nfc-module/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Moetes</title><link>/</link><description>Recent content on Moetes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 16 Jan 2026 10:56:04 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>CLRC663 NFC Module V1</title><link>/products/m03-clrc663-nfc-module/</link><pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate><guid>/products/m03-clrc663-nfc-module/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;h2 id="key-features">Key Features&lt;/h2>
 &lt;h2 id="whats-included">What&amp;rsquo;s Included&lt;/h2>
 &lt;h2 id="use-cases">Use Cases&lt;/h2>
@@ -98,24 +98,27 @@
 &lt;li>Add a LiPo battery for portable operation&lt;/li>
 &lt;li>Build your IoT application&lt;/li>
 &lt;/ol>
-&lt;p>For detailed guides and examples, visit our documentation portal.&lt;/p></description></item><item><title>FAQs</title><link>/faqs/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>/faqs/</guid><description>&lt;h2 id="general-questions">General Questions&lt;/h2>
+&lt;p>For detailed guides and examples, visit our documentation portal.&lt;/p></description></item><item><title>Moetes Development Environment</title><link>/blog/moetes-development-environment/</link><pubDate>Fri, 16 Jan 2026 10:56:04 +0800</pubDate><guid>/blog/moetes-development-environment/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Setting up a development environment is crucial for efficiently creating and testing hardware products. At Moetes, we follow a structured approach to ensure our developers have the right tools and configurations to streamline the development process.&lt;/p>
+&lt;h2 id="choose-the-right-platform">Choose the Right Platform&lt;/h2>
+&lt;p>Selecting the appropriate platform is the first step. We typically use platforms like CircuitPython, Arduino, MicroPython, Raspberry Pi or custom development boards depending on the project requirements.&lt;/p>
+&lt;p>We will formally support the following platforms:&lt;/p></description></item><item><title>FAQs</title><link>/faqs/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>/faqs/</guid><description>&lt;h2 id="general-questions">General Questions&lt;/h2>
 &lt;h3 id="what-is-moetes">What is Moetes?&lt;/h3>
 &lt;p>Moetes specializes in developing and manufacturing IoT hardware modules and development boards. We provide high-quality solutions for wireless communication, NFC/RFID, and embedded systems.&lt;/p>
 &lt;h3 id="where-can-i-purchase-your-products">Where can I purchase your products?&lt;/h3>
 &lt;p>Our products are available through our official store and authorized distributors. Each product page includes a &amp;ldquo;Buy Now&amp;rdquo; button linking to purchasing options.&lt;/p>
 &lt;h3 id="do-you-offer-technical-support">Do you offer technical support?&lt;/h3>
-&lt;p>Yes, we provide comprehensive technical support for all our products. You can disscuss with us on &lt;a href="https://github.com/moetes">GitHub&lt;/a> or reach us through our &lt;a href="/contact">contact page&lt;/a> or via email.&lt;/p></description></item><item><title>Getting Started with IoT Development</title><link>/blog/getting-started-iot-development/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>/blog/getting-started-iot-development/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>Welcome to the world of IoT development! In this guide, we&amp;rsquo;ll walk you through everything you need to know to get started with building connected devices.&lt;/p>
-&lt;h2 id="what-youll-need">What You&amp;rsquo;ll Need&lt;/h2>
-&lt;p>Before diving in, make sure you have:&lt;/p>
+&lt;p>Yes, we provide comprehensive technical support for all our products. You can disscuss with us on &lt;a href="https://github.com/moetes">GitHub&lt;/a> or reach us through our &lt;a href="/contact">contact page&lt;/a> or via email.&lt;/p></description></item><item><title>Getting Started with IoT Development</title><link>/blog/getting-started-iot-development/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>/blog/getting-started-iot-development/</guid><description>&lt;p>Modern IoT development hinges on two critical pillars: robust wireless connectivity and intuitive voice integration. This guide strips away the hype to focus on architecture, protocols, and engineering best practices.&lt;/p>
+&lt;h2 id="1-iot-architecture--hardware-fundamentals">1. IoT Architecture &amp;amp; Hardware Fundamentals&lt;/h2>
+&lt;h3 id="core-layers">Core Layers&lt;/h3>
+&lt;p>A functional IoT system operates on three distinct layers:&lt;/p>
 &lt;ul>
-&lt;li>A development kit (we recommend the nRF52840 Connect Kit)&lt;/li>
-&lt;li>A computer with USB port&lt;/li>
-&lt;li>Basic programming knowledge&lt;/li>
-&lt;li>Curiosity and enthusiasm!&lt;/li>
+&lt;li>&lt;strong>Device Layer:&lt;/strong> Sensors capture physical data; microcontrollers (MCUs) process it; actuators execute commands.&lt;/li>
+&lt;li>&lt;strong>Network Layer:&lt;/strong> Communication modules transmit data via gateways or direct internet connections.&lt;/li>
+&lt;li>&lt;strong>Application Layer:&lt;/strong> Cloud or edge servers process data for user interfaces and analytics.&lt;/li>
 &lt;/ul>
-&lt;h2 id="step-1-set-up-your-development-environment">Step 1: Set Up Your Development Environment&lt;/h2>
-&lt;p>First, you&amp;rsquo;ll need to install the necessary software tools:&lt;/p></description></item><item><title>Voice Recognition Module V4</title><link>/products/m04-voice-recognition/</link><pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate><guid>/products/m04-voice-recognition/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;h3 id="microcontroller-selection">Microcontroller Selection&lt;/h3>
+&lt;p>The MCU is the engine of the device. Selection balances performance against power consumption.&lt;/p></description></item><item><title>Voice Recognition Module V4</title><link>/products/m04-voice-recognition/</link><pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate><guid>/products/m04-voice-recognition/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;h2 id="key-features">Key Features&lt;/h2>
 &lt;h2 id="whats-included">What&amp;rsquo;s Included&lt;/h2>
 &lt;h2 id="use-cases">Use Cases&lt;/h2>

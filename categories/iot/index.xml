@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IoT on Moetes</title><link>/categories/iot/</link><description>Recent content in IoT on Moetes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/categories/iot/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with IoT Development</title><link>/blog/getting-started-iot-development/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>/blog/getting-started-iot-development/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>Welcome to the world of IoT development! In this guide, we&amp;rsquo;ll walk you through everything you need to know to get started with building connected devices.&lt;/p>
-&lt;h2 id="what-youll-need">What You&amp;rsquo;ll Need&lt;/h2>
-&lt;p>Before diving in, make sure you have:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IoT on Moetes</title><link>/categories/iot/</link><description>Recent content in IoT on Moetes</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/categories/iot/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with IoT Development</title><link>/blog/getting-started-iot-development/</link><pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate><guid>/blog/getting-started-iot-development/</guid><description>&lt;p>Modern IoT development hinges on two critical pillars: robust wireless connectivity and intuitive voice integration. This guide strips away the hype to focus on architecture, protocols, and engineering best practices.&lt;/p>
+&lt;h2 id="1-iot-architecture--hardware-fundamentals">1. IoT Architecture &amp;amp; Hardware Fundamentals&lt;/h2>
+&lt;h3 id="core-layers">Core Layers&lt;/h3>
+&lt;p>A functional IoT system operates on three distinct layers:&lt;/p>
 &lt;ul>
-&lt;li>A development kit (we recommend the nRF52840 Connect Kit)&lt;/li>
-&lt;li>A computer with USB port&lt;/li>
-&lt;li>Basic programming knowledge&lt;/li>
-&lt;li>Curiosity and enthusiasm!&lt;/li>
+&lt;li>&lt;strong>Device Layer:&lt;/strong> Sensors capture physical data; microcontrollers (MCUs) process it; actuators execute commands.&lt;/li>
+&lt;li>&lt;strong>Network Layer:&lt;/strong> Communication modules transmit data via gateways or direct internet connections.&lt;/li>
+&lt;li>&lt;strong>Application Layer:&lt;/strong> Cloud or edge servers process data for user interfaces and analytics.&lt;/li>
 &lt;/ul>
-&lt;h2 id="step-1-set-up-your-development-environment">Step 1: Set Up Your Development Environment&lt;/h2>
-&lt;p>First, you&amp;rsquo;ll need to install the necessary software tools:&lt;/p></description></item></channel></rss>
+&lt;h3 id="microcontroller-selection">Microcontroller Selection&lt;/h3>
+&lt;p>The MCU is the engine of the device. Selection balances performance against power consumption.&lt;/p></description></item></channel></rss>
